@@ -1,2 +1,2 @@
 # Teoria
-Repositório com artigos, skides e nateriais teóricos.
+Repositório com artigos, slides e nateriais teóricos.
